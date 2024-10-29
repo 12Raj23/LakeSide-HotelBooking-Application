@@ -11,14 +11,9 @@ Lakeside Hotel Booking is a web application built to manage hotel room bookings.
 - [Technologies Used](#technologies-used)
 - [Architecture](#architecture)
 - [Project Structure](#project-structure)
-- [Getting Started](#getting-started)
-- [API Endpoints](#api-endpoints)
-- [Frontend (React)](#frontend-react)
-- [Testing](#testing)
-- [Contributing](#contributing)
-- [License](#license)
-
----
+### Prerequisites
+### UI Components
+### Postman Collection
 
 ## Features
 
@@ -77,7 +72,7 @@ The project is organized into multiple packages:
 
 ---
 
-## Getting Started
+
 
 ### Prerequisites
 
@@ -96,7 +91,7 @@ The application uses **Bootstrap** for styling, ensuring responsiveness and a po
 
 ---
 
-## Testing
+
 
 ### Postman Collection
 
